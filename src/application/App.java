@@ -2,7 +2,6 @@ package application;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.text.SimpleDateFormat;
 import java.time.Instant;
 import java.util.Date;
 import java.util.Scanner;
